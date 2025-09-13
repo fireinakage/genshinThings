@@ -1,0 +1,42 @@
+body {
+  /* Add styles here! */
+  font-family: Verdana, sans-serif
+}
+
+img {
+  width: 300px;
+  margin: auto;
+  display: block;
+}
+h1, h2 {
+  text-align: center;
+}
+p {
+  text-align: center;
+}
+
+nav {
+  background-color: #cccccc;
+  color: white;
+  height: 25px;
+  font-size: 20px;
+  text-decoration: bold;
+  border-radius: 10px;
+  padding: 5px
+}
+
+nav a {
+  margin: 10px;
+}
+
+  nav a:visited {
+  color: white;
+}
+
+nav a:hover {
+  color: gray;
+}
+
+nav a:active {
+  color: gray;
+}
